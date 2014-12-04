@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geo SlideShow</string>
+    <string name="action_settings">Настройки</string>
+    <string name="strCountFoto">Количество фоток:</string>
+    <string name="strDisplayTime">Время отображения (сек):</string>
+    <string name="bntNext">Далее</string>
+    <string name="title_activity_slide_show">SlideShowActivity</string>
+    <string name="real_photo_count">Найдено фотографий всего:</string>
+    <string name="displayed_photo">Будет отображено:</string>
+    <string name="curr_foto_location">Местоположение текущей фотки:</string>
+    <string name="upload_date">Дата добавления:</string>
+    <string name="curr_photo_numb">Номер фотки:</string>
+
+</resources>

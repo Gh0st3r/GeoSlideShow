@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Programming\AndroidStudioProjects\GeoSlideShow\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Programming\AndroidStudioProjects\GeoSlideShow\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-e8f293268525fcd7628a3c3769e6edfc2b933889.jar" />
+    </item>
+    <item
+        jar="C:\Programming\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Programming\AndroidStudioProjects\GeoSlideShow\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-c7aedb073e9b08326a75b25350bd93b24dcd087d.jar" />
+    </item>
+    <item
+        jar="C:\Programming\AndroidStudioProjects\GeoSlideShow\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Programming\AndroidStudioProjects\GeoSlideShow\app\build\intermediates\pre-dexed\debug\classes-f11b51dfc7f004c36c98de362d8a053cc724469e.jar" />
+    </item>
+    <item
+        jar="C:\Programming\AndroidStudioProjects\GeoSlideShow\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Programming\AndroidStudioProjects\GeoSlideShow\app\build\intermediates\pre-dexed\debug\classes-53206260315dc24df3c02f5abd922150a9ae8bc8.jar" />
+    </item>
+
+</items>

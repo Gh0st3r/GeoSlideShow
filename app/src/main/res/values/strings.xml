@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geo SlideShow</string>
+    <string name="action_settings">Settings</string>
+    <string name="strCountFoto">Number of photos:</string>
+    <string name="strDisplayTime">Time display (sec):</string>
+    <string name="bntNext">Next</string>
+    <string name="title_activity_slide_show">SlideShowActivity</string>
+    <string name="real_photo_count">Total photo found:</string>
+    <string name="displayed_photo">Total displayed photo:</string>
+    <string name="curr_foto_location">Location of the current photo:</string>
+    <string name="upload_date">Upload date:</string>
+    <string name="curr_photo_numb">Number of the current photo:</string>
+
+</resources>
